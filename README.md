@@ -1,7 +1,7 @@
 ![alt text](homepageImage_en_US.png)
 
 # LaTeX templates for submission to Geomorphica
-This respository includes LaTeX templates for the submissions to the journal Geomorphica (https://geomorphica.org). Submissions using these templates are highly preferable by the editorial team.
+This respository includes LaTeX templates for the submissions to the journal Geomorphica (https://geomorphica.org). Submissions using these templates are highly preferable by the editorial team. The Microsoft Word templates are also available here: [https://github.com/Geomorphica/LaTex_template.git](https://github.com/Geomorphica/Word_template.git)
 
 ### About the journal
 Geomorphica is a community-led and community-driven **Diamond Open Access journal** that promotes academic discourse and disseminates research results pertaining to all aspects of geomorphology, including, but not limited to, landscapes and landforms, earth and other planetary near-surface processes, and the mechanisms, dynamics and timescales pertaining to these processes. Diamond Open Access journals are **free for all to read, without subscription, and do not charge article processing fees to authors**.
