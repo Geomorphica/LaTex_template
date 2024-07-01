@@ -1,7 +1,7 @@
 ![alt text](homepageImage_en_US.png)
 
 # LaTeX templates for submission to Geomorphica
-This repository includes LaTeX templates for the **title page** and the **anonymous manuscript** for submissions to the journal Geomorphica (https://geomorphica.org). Other Microsoft Word templates can be found here: https://github.com/Geomorphica/Word_template.git. If the submitted paper is accepted for publication, authors should use the Microsoft Word templates for the **supplementary materials** and the **non-English abstract** during the copyediting and production stages as needed.
+This repository includes LaTeX templates for (1) **title page**, and (2) the **manuscript**, for submissions to the journal Geomorphica (https://geomorphica.org). Other Microsoft Word templates can be found here: https://github.com/Geomorphica/Word_template.git. If the submitted paper is accepted for publication, authors should use the Microsoft Word templates for (3) the **supplementary materials**, and (4) the **non-English abstract** during the copyediting and production stages as needed.
 
 Please refer to our auther guidelines (https://journals.psu.edu/geomorphica/authorguidelines) for details about submission formatting. **The initial submission should be preferably pdf files**, and **final submissions after acceptance as docx or LaTeX files**. We recommend using Geomorphica templates as this will help the publication process post-acceptance. Since Geomorphica has opted for a triple-anonymous peer-review process, we require two files to be submitted:
 * the title page of the manuscript, including:
@@ -13,7 +13,7 @@ Please refer to our auther guidelines (https://journals.psu.edu/geomorphica/auth
   * funding statement
   * conflict of interest disclosure
   * permission to reproduce material from copyrighted sources
-* the **manuscript should be anonymized**. It should contain line numbers, and a minimum font size of 11. Figures and tables should appear within the text at the appropriate points rather than as separate files.
+* the **manuscript, supplementary materials, and non-English abstract files remain amonymous during initial submission and peer review process**. They should contain line numbers, and a minimum font size of 11. Figures and tables should appear within the text at the appropriate points rather than as separate files.
 
 ### About the journal
 Geomorphica is a community-led and community-driven **Diamond Open Access journal** that promotes academic discourse and disseminates research results pertaining to all aspects of geomorphology, including, but not limited to, landscapes and landforms, earth and other planetary near-surface processes, and the mechanisms, dynamics and timescales pertaining to these processes. Diamond Open Access journals are **free for all to read, without subscription, and do not charge article processing fees to authors**.
