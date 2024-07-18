@@ -1,7 +1,7 @@
 ![alt text](homepageImage_en_US.png)
 
 # LaTeX templates for submission to Geomorphica
-This repository includes LaTeX templates for (1) **title page**, and (2) the **manuscript**, for submissions to the journal Geomorphica (https://geomorphica.org). Other Microsoft Word templates can be found here: https://github.com/Geomorphica/Word_template.git. For (3) the **supplementary materials**, and (4) the **non-English abstract**, authors should use the Microsoft Word templates ().
+This repository includes LaTeX templates for (1) **title page**, and (2) the **manuscript**, for submissions to the journal Geomorphica (https://geomorphica.org). For (3) the **supplementary materials**, and (4) the **non-English abstract**, authors should use the Microsoft Word templates (https://github.com/Geomorphica/Word_template.git).
 
 Please refer to our [Auther Guidelines](https://journals.psu.edu/geomorphica/authorguidelines) for details about submission formatting. **The initial submission should be PDF files**, and **final submissions after acceptance as docx or LaTeX files**. The submission includes:
 * A cover letter, with a summary of the manuscript and a list of suggested reviewers (and/or reviewers to exclude)
