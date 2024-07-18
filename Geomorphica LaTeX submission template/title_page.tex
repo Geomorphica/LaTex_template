@@ -1,0 +1,99 @@
+% Geomorphica Submission Template
+% Last revised: May 23, 2023
+% Roberto Fernández 
+
+
+% The title page requires the following items for the anonymous review process: 
+% Title
+% Authors (including affiliations, ORCIDs, corresponding author email and CRediT - author contributions)
+% Acknowledgements
+% Data and code availability
+% Competing interests
+
+% The main file can contain those elements and you should compile using the anonymous version so they are removed. Copy and paste those sections into the corresponding sections within this document to create the title page. 
+
+% After acceptance, you can compile the manuscript using the review option and all elements will be visible within a single document. 
+
+% The article begins here - Indicate titlepage as your desired option
+\documentclass[titlepage]{geomorphica}
+
+% Article Title
+\title{Title}
+
+% List authors with their ORCID. Include email for corresponding author. 
+\author[1]{Name Firstauthor
+	\orcid{1111-1111-1111-1111}
+	\thanks{Corresponding author: a.firstauthor@university.edu}
+}
+\author[2]{Name Secondauthor
+	\orcid{2222-2222-2222-2222}
+}
+\author[1,3]{Name Thirdauthor
+	\orcid{3333-3333-3333-3333}
+}
+% Include the affiliations of the authors:
+\affil[1]{Department of Earth Sciences, A University, City, Country}
+\affil[2]{School of Earth Sciences, Another University, City, Country}
+\affil[3]{Center for Studying Cool Things, University of X, City, Country}
+
+% Author CRediT (Author roles) 
+% Please use the CRediT roles as defined at https://casrai.org/credit
+% Use as many roles as necessary; there is no requirement to use all 14 roles
+%\credit{Conceptualization}{N. Firstauthor, N. Thirdauthor}
+%\credit{Methodology}{people}
+%\credit{Software}{people}
+%\credit{Validation}{people}
+%\credit{Formal Analysis}{Name Firstauthor, Name Secondauthor}
+%\credit{Investigation}{people}
+%\credit{Resources}{people}
+%\credit{Writing - original draft}{N. F.}
+%\credit{Writing - Review \& Editing}{people}
+%\credit{Visualization}{people}
+%\credit{Supervision}{people}
+%\credit{Project administration}{people}
+%\credit{Funding acquisition}{people}
+
+\begin{document}
+% Leave this for title to appear (and authors etc.)
+\makegeomorphicatitle{}
+
+% Final aspects of the mansucript Will not be printed if the anonymous option is chosen
+% Specify authors' contributions
+\begin{closing}{Author Contribution Statements}
+	Geomorphica mandates that all authors take public responsibility for their submitted works. The contributions of all authors must be described in this section using the Contributor Roles Taxonomy (CRediT) (https://casrai.org/credit). It is not mandatory to use all 14 roles. An author's name must appear at least once and it may appear multiple times. For instance, "N.F. and N.S. conceptualized the research. N.S. and N.T. conducted field surveys. N.F. and N.T. handled XYZ analysis, etc." 
+All authors have endorsed the manuscript's final version for publication. For single authors, use the statement: "Author A.B. confirms sole responsibility for the study's conception, design, data collection and analysis, interpretation of results, and manuscript preparation."
+Contributors who do not meet the authorship requirements should be listed in the Acknowledgments section.
+\end{closing}
+% Thanks to people!
+\begin{closing}{Acknowledgments}
+	This is a place to express gratitude towards all individuals and/or entities that contributed to the work's completion, but who are not recognized as co-authors. Examples of acknowledgments that could be included: (1) if specific permissions were obtained for the research (e.g., access to restricted areas, data, or materials), (2) if someone or some team provided data used in the study, (3) if someone or some team provided information helpful for analysis, and (4) if someone provided logistical or operational assistance with the work, well beyond an expected level of contribution. There are many additional ways in which an individual, team, or organization may have helped enable the work’s completion. 
+Some examples of acknowledgments are
+“We thank the <mission team> for collecting and making available the <datasets> used in this study,”
+“We thank <person> for valuable discussions that guided our analysis,”
+“We appreciate the significant effort by <person> towards setting up our fieldwork permissions and planning, <why significant, e.g., enabling our avoidance of the rainy season>.”
+Do not include funding source information in this section.
+\end{closing}
+% Acknolwedge native lands!
+\begin{closing}{Land Recognition}
+	When the research was conducted on the (previous) land(s) of indigenous people, authors should include appropriate acknowledgments for the lands and the indigenous communities in this section. For further details about Geomorphica’s Native Land Recognition requirements and examples, please see our Land Recognition Guidelines (https://journals.psu.edu/geomorphica/landrecognition).
+If none of the research work was conducted on the (previous) land(s) of indigenous people, authors should state it. For example:
+“After consulting relevant resources and checking with the relevant local communities, the authors have confirmed that the lands containing their institutions and all work sites associated with this study do not have cultural or historical significance to a particular indigenous group.”
+\end{closing}
+% Guide the reader know where they can find any data and/or code associated with the manuscript.
+\begin{closing}{Data and Code Availability}
+	Authors must guide readers to an open-access permanent repository where the study's data and code are accessible, either as supplementary materials available online with the main article on our website, or uploaded to FAIR data repositories, such as Zenodo, Figshare, or Dryad. Include citations (such as DOIs) for datasets and codes in the references. Statements such as “data and codes will be available upon request to authors” are NOT acceptable for publication in Geomorphica.
+For further details about Geomorphica’s data and code availability requirements, please see our Data and Code Availability Guidelines (https://journals.psu.edu/geomorphica/DataCode).
+\end{closing}
+% Declare funding information
+\begin{closing}{Funding Statement}
+	Geomorphica requires authors to specify any funding sources (institutional, private, or corporate) supporting the reported work. This information should list the funding organization(s) and grant number(s) (if applicable), and it should be provided upon submission. If no funding was received, authors should state: “This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors.”
+\end{closing}
+% Let the reader and reviewers know if there are any conflicts of interest
+\begin{closing}{Conflict of Interest Disclosure}
+	Declare any competing interests, financial or otherwise, pertaining to any of the authors. If there are none, state that the authors have no competing interests.
+\end{closing}
+% Be careful about reproducing copyrighted materials
+\begin{closing}{Permission to Reproduce Material from Copyrighted Sources}
+	If this manuscript reproduces content (texts, figures, videos, codes, or other materials) from copyrighted sources, detail the obtained permission(s) here. If none, simply state: "The authors declare that no material from copyrighted sources was reproduced in this manuscript."
+\end{closing}
+\end{document}
